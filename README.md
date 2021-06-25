@@ -1,2 +1,2 @@
-# ee4220
-Digitale Schaltungstechnik
+# Digitale Schaltungstechnik (4220)
+
