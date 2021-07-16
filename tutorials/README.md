@@ -1,3 +1,3 @@
 # Tutorials
 
-- [Tools](tools/README.md)
+- [Tools](tools/)
