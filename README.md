@@ -40,6 +40,7 @@ Dieses Modul vermittelt die Grundlagen digitaler Schaltungstechnik inkl. kombina
 **Verilog**
 - [EDA Playground](https://www.edaplayground.com)
 - [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+- [Quartus Prime Lite Edition](https://fpgasoftware.intel.com/?edition=lite)
 
 ## Empfohlene Literatur
 
